@@ -1,7 +1,1 @@
-/src/         ← React source code
-package.json
-vite.config.js
-index.html
-tailwind.config.js
-postcss.config.js
-...
+
